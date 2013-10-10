@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlatformGod.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Platform.cs" Line="18" Column="61" />
+      <File FileName="Assets/Scripts/PlatformGod.cs" Line="86" Column="21" />
+      <File FileName="Assets/Scripts/PlayerControl.cs" Line="45" Column="3" />
+      <File FileName="Assets/Scripts/Camera2.cs" Line="18" Column="140" />
+      <File FileName="Assets/Scripts/Camera1.cs" Line="18" Column="106" />
+      <File FileName="Assets/Scripts/Snowman.cs" Line="21" Column="68" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
